@@ -1,7 +1,14 @@
 * {
     /*margin: auto;
     padding: auto;*/
-    height: 100px;
+    /*height: 100px;*/
+}
+header,
+nav,
+aside,
+main,
+footer {
+    height: 10vw; /* or 100px */
 }
 header {
     background-color: gold;
