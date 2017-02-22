@@ -1,0 +1,27 @@
+* {
+    /*margin: auto;
+    padding: auto;*/
+    height: 100px;
+}
+header {
+    background-color: gold;
+}
+nav {
+    background-color: green;
+}
+.left {
+    background-color: grey;
+}
+.right {
+    background-color: Fuchsia;
+}
+aside {
+    background-color: blue;
+}
+main {
+    background-color: Teal;
+}
+footer {
+    background-color: aqua;
+    /*clear: both;*/
+}
